@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Tansu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_test">TestActivity</string>
+
+    <!--My values-->
+    <string name="service_name">Tansu</string>
+    <string name="label">Tansu</string>
+    <string name="title_upperdrawer">Upper Drawer</string>
+    <string name="title_underdrawer">Under Drawer</string>
+    <string name="title_stared_notifbox">Stared Notification List</string>
+    <string name="title_all_notifbox">Notification List</string>
+    <string name="title_keywordregister">Keyword Register</string>
+    <string name="title_applist">App List</string>
+    <string name="title_registeredapp">Registered App List</string>
+    <string name="info_title">Info</string>
+    <string name="info_developper">
+        Shohei Yaden\n
+        b1444263@planet.kanazawa-it.ac.jp
+    </string>
+    <string name="info_no_registered_app">There is no registered app here.</string>
+    <string name="info_no_notification">There is no notification here.</string>
+    <string name="info_no_stared_notification">There is no stared notification here.</string>
+    <string name="button_close">CLOSE</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">YES</string>
+    <string name="button_no">NO</string>
+    <string name="button_add">ADD</string>
+    <string name="button_notificationaccess">NOTIFICATION ACCESS</string>
+    <string name="button_register">REGISTER</string>
+    <string name="button_launch">LAUNCH</string>
+    <string name="attention_title">Attention</string>
+    <string name="attention_notificationaccess">"Notification Access" for this application has been disabled. Please enable it for get notification.</string>
+    <string name="ques_delete">Do you want to delete all notification?</string>
+    <string name="toast_delete">All notification was deleted.</string>
+    <string name="toast_error_open_notificationaccess">Cannot open the "Notification Access"</string>
+    <string name="toast_no_keyword">Here is no keyword</string>
+    <string name="toast_registered_keyword">It has already been registered</string>
+    <string name="nav_item_notificationaccess">Notification Access</string>
+    <string name="nav_item_delete">Delete</string>
+    <string name="nav_item_applist">App Register</string>
+    <string name="nav_item_keywordlist">Keyword Register</string>
+    <string name="nav_item_help">Help</string>
+    <string name="nav_item_info">Info</string>
+    <string name="help_title">Help</string>
+    <string name="help_textview">
+        "Tansu" gets notification automatically and temporarily saves it.(*)\n
+        \n
+        There are two drawers on the top screen, the top row and the bottom row. The former has important notices and the latter contains all notices.\n
+        \n
+        Important notice contains only the notification extracted by the keyword registered from the keyword registration screen.\n
+        \n
+        Only notifications of applications checked from the application list are displayed.\n
+        \n
+        (*) Saved notification has a lifetime, it will disappear in "one week". The notice that disappears changes from "blue" to "red".\n
+        \n
+        ---Additional notes---\n
+        About checking the application, if you install a new application or change the language used, check items will be misaligned. Please note.
+    </string>
+
+</resources>

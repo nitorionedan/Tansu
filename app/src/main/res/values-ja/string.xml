@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tansu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_test">TestActivity</string>
+
+    <!--My values-->
+    <string name="service_name">Tansu</string>
+    <string name="label">Tansu</string>
+    <string name="title_upperdrawer">上の段</string>
+    <string name="title_underdrawer">下の段</string>
+    <string name="title_stared_notifbox">重要な通知リスト</string>
+    <string name="title_all_notifbox">通知リスト</string>
+    <string name="title_keywordregister">キーワード登録</string>
+    <string name="title_applist">アプリ リスト</string>
+    <string name="title_registeredapp">登録済アプリ リスト</string>
+    <string name="info_title">インフォメーション</string>
+    <string name="info_developper">矢伝 翔平\nb1444263@planet.kanazawa-it.ac.jp</string>
+    <string name="info_no_registered_app">登録済みアプリがありません</string>
+    <string name="info_no_stared_notification">重要な通知はありません</string>
+    <string name="info_no_notification">通知はありません</string>
+    <string name="button_close">閉じる</string>
+    <string name="button_cancel">キャンセルL</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">はい</string>
+    <string name="button_no">いいえ</string>
+    <string name="button_add">追加</string>
+    <string name="button_notificationaccess">通知へのアクセス</string>
+    <string name="button_register">登録</string>
+    <string name="button_launch">起動</string>
+    <string name="attention_title">注意</string>
+    <string name="attention_notificationaccess">お手数をおかけしますが、通知を取得するため「通知へのアクセス」を許可してください</string>
+    <string name="ques_delete">すべての通知を削除しますか？</string>
+    <string name="toast_delete">すべての通知を削除しました</string>
+    <string name="toast_error_open_notificationaccess">「通知へのアクセス」を開けませんでした</string>
+    <string name="toast_no_keyword">登録済みキーワードはありません</string>
+    <string name="toast_registered_keyword">登録済みのキーワードです</string>
+    <string name="nav_item_notificationaccess">通知へのアクセス</string>
+    <string name="nav_item_delete">クリア</string>
+    <string name="nav_item_applist">アプリ登録</string>
+    <string name="nav_item_keywordlist">キーワード登録</string>
+    <string name="nav_item_help">ヘルプ</string>
+    <string name="nav_item_info">情報</string>
+    <string name="help_title">ヘルプ</string>
+    <string name="help_textview">
+        「Tansu」は通知を自動で取得し、一時的に保存します。（※）\n
+        \n
+        トップ画面に上の段と下の段、２つの引き出しがあります。前者には重要な通知が入り、後者にはすべての通知が入っております。\n
+        \n
+        重要な通知とはキーワード登録画面より登録されたキーワードにより抽出された通知のみが入っております。\n
+        \n
+        また、アプリリストよりチェックしたアプリの通知のみ表示されます。\n
+        \n
+        （※）保存されている通知には寿命があり、「１週間」で消えます。消えそうな通知は「青色」から「赤色」へと変貌します。\n
+        \n
+        ---追記---\n
+        アプリのチェックについてなんですが、新しいアプリをインストールしたり使用言語を変更したりしますとチェック項目がずれてしまいます。ご了承ください。
+    </string>
+</resources>
